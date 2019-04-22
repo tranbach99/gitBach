@@ -4,3 +4,5 @@ cd M:\FPT\1644 - Cloud Computing\Git
 git clone http://github.com/FGWStaff/SimpleApp.git
 
 git clone http://github.com/DoQuocBinh/DemoProject.git
+ 
+:D
