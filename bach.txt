@@ -2,3 +2,4 @@ Bach update
 Toi la Tran Xuan Bach
 update 3
 sua tren local
+sua tren server
