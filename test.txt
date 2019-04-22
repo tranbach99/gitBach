@@ -4,3 +4,7 @@ hehllo abc
 
 --addd more code version 3
 
+<<<<<<< HEAD
+=======
+update 22/4-teacher
+>>>>>>> 89d0ce93492e2343c4395ac10594736d994cde4e
